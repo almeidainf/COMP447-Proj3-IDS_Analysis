@@ -1,0 +1,56 @@
+[**] [1:365:8] ICMP PING undefined code [**]
+[Classification: Misc activity] [Priority: 3] 
+07/10-15:43:30.560429 172.16.16.128 -> 172.16.16.150
+ICMP TTL:44 TOS:0x0 ID:59550 IpLen:20 DgmLen:148 DF
+Type:8  Code:9  ID:15844   Seq:295  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+07/10-15:43:30.561275 172.16.16.150 -> 172.16.16.128
+ICMP TTL:128 TOS:0x0 ID:11406 IpLen:20 DgmLen:148
+Type:0  Code:0  ID:15844  Seq:295  ECHO REPLY
+
+[**] [1:384:5] ICMP PING [**]
+[Classification: Misc activity] [Priority: 3] 
+07/10-15:43:30.585241 172.16.16.128 -> 172.16.16.150
+ICMP TTL:43 TOS:0x4 ID:47913 IpLen:20 DgmLen:178
+Type:8  Code:0  ID:15845   Seq:296  ECHO
+
+[**] [1:408:5] ICMP Echo Reply [**]
+[Classification: Misc activity] [Priority: 3] 
+07/10-15:43:30.587009 172.16.16.150 -> 172.16.16.128
+ICMP TTL:128 TOS:0x0 ID:11407 IpLen:20 DgmLen:178
+Type:0  Code:0  ID:15845  Seq:296  ECHO REPLY
+
+[**] [1:1228:7] SCAN nmap XMAS [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/10-15:43:30.787266 172.16.16.128:53955 -> 172.16.16.150:41296
+TCP TTL:38 TOS:0x0 ID:23631 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x974C9B17  Ack: 0x421D0406  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+[Xref => http://www.whitehats.com/info/IDS30]
+
+[**] [1:1228:7] SCAN nmap XMAS [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/10-15:43:30.962267 172.16.16.128:53955 -> 172.16.16.150:41296
+TCP TTL:57 TOS:0x0 ID:47420 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x974C9B17  Ack: 0x421D0406  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+[Xref => http://www.whitehats.com/info/IDS30]
+
+[**] [1:1228:7] SCAN nmap XMAS [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/10-15:43:31.137277 172.16.16.128:53955 -> 172.16.16.150:41296
+TCP TTL:59 TOS:0x0 ID:59669 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x974C9B17  Ack: 0x421D0406  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+[Xref => http://www.whitehats.com/info/IDS30]
+
+[**] [1:1228:7] SCAN nmap XMAS [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/10-15:43:31.312295 172.16.16.128:53955 -> 172.16.16.150:41296
+TCP TTL:58 TOS:0x0 ID:1079 IpLen:20 DgmLen:60
+**U*P**F Seq: 0x974C9B17  Ack: 0x421D0406  Win: 0xFFFF  TcpLen: 40  UrgPtr: 0x0
+TCP Options (5) => WS: 15 NOP MSS: 265 TS: 4294967295 0 SackOK 
+[Xref => http://www.whitehats.com/info/IDS30]
+

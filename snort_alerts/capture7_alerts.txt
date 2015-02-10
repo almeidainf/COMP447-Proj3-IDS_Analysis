@@ -1,0 +1,622 @@
+[**] [1:1917:6] SCAN UPnP service discover attempt [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/01-00:36:43.632043 192.168.1.101:1031 -> 239.255.255.250:1900
+UDP TTL:1 TOS:0x0 ID:27 IpLen:20 DgmLen:129
+Len: 101
+
+[**] [1:2008803:4] ET CURRENT_EVENTS Possible Downadup/Conficker-B Infection Checking Geographical Location [**]
+[Classification: A Network Trojan was Detected] [Priority: 1] 
+04/01-00:36:55.777635 192.168.1.101:1038 -> 66.114.124.141:80
+TCP TTL:128 TOS:0x0 ID:50 IpLen:20 DgmLen:48 DF
+******S* Seq: 0x28EBBC14  Ack: 0x0  Win: 0xFFFF  TcpLen: 28
+TCP Options (4) => MSS: 1460 NOP NOP SackOK 
+
+[**] [1:2008803:4] ET CURRENT_EVENTS Possible Downadup/Conficker-B Infection Checking Geographical Location [**]
+[Classification: A Network Trojan was Detected] [Priority: 1] 
+04/01-00:36:55.951377 192.168.1.101:1039 -> 75.126.138.202:80
+TCP TTL:128 TOS:0x0 ID:56 IpLen:20 DgmLen:48 DF
+******S* Seq: 0x16E1DD99  Ack: 0x0  Win: 0xFFFF  TcpLen: 28
+TCP Options (4) => MSS: 1460 NOP NOP SackOK 
+
+[**] [1:2008803:4] ET CURRENT_EVENTS Possible Downadup/Conficker-B Infection Checking Geographical Location [**]
+[Classification: A Network Trojan was Detected] [Priority: 1] 
+04/01-00:36:56.047398 192.168.1.101:1040 -> 208.78.69.70:80
+TCP TTL:128 TOS:0x0 ID:62 IpLen:20 DgmLen:48 DF
+******S* Seq: 0xC481E031  Ack: 0x0  Win: 0xFFFF  TcpLen: 28
+TCP Options (4) => MSS: 1460 NOP NOP SackOK 
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.632696 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:189 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.637742 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:190 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.641648 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:191 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.642789 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:192 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.643929 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:193 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.653532 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:194 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.654641 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:195 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.662821 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:196 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.663968 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:197 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:38:08.671560 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:198 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.409682 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:231 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.410793 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:232 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.411921 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:233 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.421518 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:234 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.422665 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:235 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.423771 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:236 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.424878 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:237 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.426061 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:238 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.427197 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:239 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:48:08.428436 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:240 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:07.890883 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:270 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:07.895936 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:271 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.018278 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:272 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.019425 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:273 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.026409 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:274 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.027517 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:275 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.028623 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:276 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.029755 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:277 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.030994 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:278 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-00:58:08.032140 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:279 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:02:22.853908 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30839 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:02:27.377728 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30840 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.736930 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:561 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.746411 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:562 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.750668 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:563 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.756544 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:564 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.757707 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:565 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.758820 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:566 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.759944 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:567 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.761145 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:568 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.762303 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:569 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:08:07.763455 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:570 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:11:42.389338 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:64 TOS:0x0 ID:683 IpLen:20 DgmLen:576
+Len: 548
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.706832 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:691 IpLen:20 DgmLen:300
+Len: 272
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.774136 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:694 IpLen:20 DgmLen:309
+Len: 281
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.778501 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:695 IpLen:20 DgmLen:344
+Len: 316
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.779295 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:696 IpLen:20 DgmLen:352
+Len: 324
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.780093 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:697 IpLen:20 DgmLen:358
+Len: 330
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.791180 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:698 IpLen:20 DgmLen:300
+Len: 272
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.791948 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:699 IpLen:20 DgmLen:309
+Len: 281
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.792750 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:700 IpLen:20 DgmLen:344
+Len: 316
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.793547 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:701 IpLen:20 DgmLen:352
+Len: 324
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:52.794353 169.254.11.253:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:702 IpLen:20 DgmLen:358
+Len: 330
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.730065 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:711 IpLen:20 DgmLen:200
+Len: 172
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.731122 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:712 IpLen:20 DgmLen:209
+Len: 181
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.735618 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:713 IpLen:20 DgmLen:244
+Len: 216
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.736903 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:714 IpLen:20 DgmLen:252
+Len: 224
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.737992 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:715 IpLen:20 DgmLen:258
+Len: 230
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.739040 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:716 IpLen:20 DgmLen:200
+Len: 172
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.740096 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:717 IpLen:20 DgmLen:209
+Len: 181
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.741303 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:718 IpLen:20 DgmLen:244
+Len: 216
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.742386 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:719 IpLen:20 DgmLen:252
+Len: 224
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.743579 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:720 IpLen:20 DgmLen:258
+Len: 230
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.759785 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:721 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.760909 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:722 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.768942 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:723 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.770099 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:724 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.771258 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:725 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.772376 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:726 IpLen:20 DgmLen:299
+Len: 271
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.773500 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:727 IpLen:20 DgmLen:308
+Len: 280
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.774828 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:728 IpLen:20 DgmLen:343
+Len: 315
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.775987 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:729 IpLen:20 DgmLen:351
+Len: 323
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:1384:8] MISC UPnP malformed advertisement [**]
+[Classification: Misc Attack] [Priority: 2] 
+04/01-01:11:54.803122 192.168.1.102:1900 -> 239.255.255.250:1900
+UDP TTL:4 TOS:0x0 ID:730 IpLen:20 DgmLen:357
+Len: 329
+[Xref => http://www.microsoft.com/technet/security/bulletin/MS01-059.mspx][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0877][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2001-0876][Xref => http://www.securityfocus.com/bid/3723]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:12:13.124280 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30841 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:12:23.486348 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30842 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:12:52.830830 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30843 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:13:13.495116 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30844 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:13:31.347238 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30845 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:13:32.644932 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30846 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:13:35.369069 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30847 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:14:16.740965 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30848 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:14:28.194158 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30849 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:14:29.975478 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30850 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:15:13.653827 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30851 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+
+[**] [1:527:8] BAD-TRAFFIC same SRC/DST [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+04/01-01:15:15.048312 0.0.0.0:68 -> 255.255.255.255:67
+UDP TTL:255 TOS:0x0 ID:30852 IpLen:20 DgmLen:328
+Len: 300
+[Xref => http://www.cert.org/advisories/CA-1997-28.html][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=1999-0016][Xref => http://www.securityfocus.com/bid/2666]
+

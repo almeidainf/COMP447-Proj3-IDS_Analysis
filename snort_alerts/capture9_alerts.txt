@@ -1,0 +1,7 @@
+[**] [1:537:15] NETBIOS SMB IPC$ share access [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+02/19-15:47:41.162553 192.168.0.93:2283 -> 192.168.0.84:139
+TCP TTL:64 TOS:0x0 ID:50462 IpLen:20 DgmLen:124 DF
+***AP*** Seq: 0x293D6066  Ack: 0x64B5A2B4  Win: 0xD80  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 236176 2672 
+

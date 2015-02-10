@@ -1,0 +1,32 @@
+[**] [1:1421:11] SNMP AgentX/tcp request [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/04-14:24:19.956889 172.16.0.8:36050 -> 64.13.134.52:705
+TCP TTL:51 TOS:0x0 ID:64865 IpLen:20 DgmLen:44
+******S* Seq: 0xDD528318  Ack: 0x0  Win: 0x1000  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1421:11] SNMP AgentX/tcp request [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/04-14:24:20.065588 172.16.0.8:36051 -> 64.13.134.52:705
+TCP TTL:51 TOS:0x0 ID:41575 IpLen:20 DgmLen:44
+******S* Seq: 0xDD538319  Ack: 0x0  Win: 0x1000  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1418:11] SNMP request tcp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/04-14:24:20.903359 172.16.0.8:36050 -> 64.13.134.52:161
+TCP TTL:54 TOS:0x0 ID:7225 IpLen:20 DgmLen:44
+******S* Seq: 0xDD528318  Ack: 0x0  Win: 0xC00  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
+[**] [1:1418:11] SNMP request tcp [**]
+[Classification: Attempted Information Leak] [Priority: 2] 
+07/04-14:24:21.004270 172.16.0.8:36051 -> 64.13.134.52:161
+TCP TTL:51 TOS:0x0 ID:41055 IpLen:20 DgmLen:44
+******S* Seq: 0xDD538319  Ack: 0x0  Win: 0x1000  TcpLen: 24
+TCP Options (1) => MSS: 1460 
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0013][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0012][Xref => http://www.securityfocus.com/bid/4132][Xref => http://www.securityfocus.com/bid/4089][Xref => http://www.securityfocus.com/bid/4088]
+
